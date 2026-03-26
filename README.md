@@ -43,6 +43,10 @@ Cleaning Steps Applied
 5. Feature Engineering — 3 New Columns
 - Age group, Family size
 
+# Dashboard
+Titanic Dashboard <img width="831" height="459" alt="Screenshot 2026-03-26 152706" src="https://github.com/user-attachments/assets/6a7f0d21-b607-4616-9932-f7dda8f19256" />
+
+
 # Key Insights
 1. Gender Was the Strongest Survival Predictor
 Women survived at 74.2%, men at 18.9% — a gap of 55 percentage points.
