@@ -48,6 +48,7 @@ Cleaning Steps Applied
 Women survived at 74.2%, men at 18.9% — a gap of 55 percentage points.
 The "women and children first" evacuation protocol is clearly visible in the data.
 2. Passenger Class Determined Your Chances
+
 | Class       | Survival Rate |
 |-------------|---------------|
 | 1st Class   | 63.0%         |
