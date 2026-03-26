@@ -40,8 +40,8 @@ Cleaning Steps Applied
 - Sex → standardised to lowercase (male, female)
 - Embarked → standardised to uppercase (S, C, Q)
   
-5. Feature Engineering — 3 New Columns
-- Age group, Family size
+5. Feature Engineering — 5 New Columns
+- Age group, Family size, Title, Survival status, PClass Text
 
 # Dashboard
 Titanic Dashboard <img width="831" height="459" alt="Screenshot 2026-03-26 152706" src="https://github.com/user-attachments/assets/6a7f0d21-b607-4616-9932-f7dda8f19256" />
