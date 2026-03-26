@@ -66,6 +66,7 @@ Third class made up 55% of all passengers but received the worst outcomes — du
 | Young Adult (18–35) | 35.8%         |
 | Adult (36–60)       | 38.4%         |
 | Senior (61+)        | 22.7%         |
+
 Children were prioritised during evacuation. Seniors had the worst outcomes, likely due to reduced mobility.
 
 4. Fare Paid Correlated with Survival
