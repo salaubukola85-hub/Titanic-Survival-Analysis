@@ -58,6 +58,7 @@ The "women and children first" evacuation protocol is clearly visible in the dat
 Third class made up 55% of all passengers but received the worst outcomes — due to cabin location, distance from lifeboats, and evacuation barriers.
 
 3. Children Had the Best Survival Rate
+
 | Age Group            | Survival Rate |
 |---------------------|---------------|
 | Child (0–12)        | 58.0%         |
